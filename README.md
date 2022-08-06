@@ -1,2 +1,4 @@
 # Drive-Forever-Oyunu-Assetlerim
-YouTube kanalım BerkaProd'da eğitimi verdiğim drive forever oyunumun assetleri.
+Selamlar, Ben Berka.
+YouTube kanalım olan BerkaProd'da eğitim videosunu çekmiş olduğum "Drive Forever" oyunumun assetlerine buradan ulaşabilir, indirebilirsiniz.
+Dilerseniz videoya şu linkten ulaşabilirsiniz : <video henüz yüklenmedi>
